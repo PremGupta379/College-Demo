@@ -1,3 +1,2 @@
 # College-Demo
-This is my first college repository.
-Author-Prem Gupta
+This is my first college repository.<br>Author-Prem Gupta
